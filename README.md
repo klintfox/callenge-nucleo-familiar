@@ -27,5 +27,3 @@ Como entregable final, se espera un documento comprimido (formato ZIP) con los s
   - Código fuente de los microservicios.
   - Imágenes de evidencia de pruebas ejecutadas a los microservicios.
   - Archivos de scripts de la base de datos o estructura de datos utilizada para la prueba.
-
-El documento final debe ser enviado por correo electrónico o en lo sucesivo responder al correo de solicitud de la prueba, indicando la Url de acceso al recurso compartido.
